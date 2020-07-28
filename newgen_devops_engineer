@@ -7,4 +7,5 @@ Interview Questions 1:
 6. Jboss webserver configuration and how to load files?
 7. What is difference between enterprise version and community edition of Jboss?
 8. How will you find the difference between two files and how will you handle it using shell?
-9. 
+9. Rollback strategy for a system?
+10. 
